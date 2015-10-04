@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/kelvinPompeu/.m2/repository/junit/junit/4.4/junit-4.4.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/kelvinPompeu/Documents/NetBeansProjects/mavenjunitProject/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2015. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/kelvinPompeu/Documents/NetBeansProjects/mavenjunitProject/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mavenjunitProject 1.0-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' 'C:/Users/kelvinPompeu/Documents/NetBeansProjects/mavenjunitProject/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'mavenjunitProject 1.0-SNAPSHOT API'
